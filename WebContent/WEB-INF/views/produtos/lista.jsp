@@ -4,8 +4,8 @@
 
 <body>
 	
-	<table bgcolor="#C000111" width="600px">
-		<tr><td heigth="100px" width="600px"></td></tr> 
+	<table bgcolor="#C000111">
+		<tr><td heigth="100px"><img src="/controle-veterinario/imagens/topo.jpg" /></td></tr> 
 		<tr><td><a href="/controle-veterinario/produtos/form.html">Novo</td></tr>
 	</table>
 			<!-- produtoList => concatenacao do tipo Produto + tipo List -->
