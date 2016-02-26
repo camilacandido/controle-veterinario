@@ -14,7 +14,7 @@ public class Grupo implements GrantedAuthority {
 	private Long id;
 	private String nome;
 
-	
+	// novo comentario
 	public Long getId() {
 		return id;
 	}
